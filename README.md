@@ -12,8 +12,6 @@
 <table>
 - 🌱 I’m currently learning everything 🤣
 
-- 💬 Ask me about **anything, if I know, I will answer.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vinhnd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vinhnd" height="30" width="40" /></a>
